@@ -1,3 +1,4 @@
 Collaborators are people who have been given write access to a repository. This means they can push changes to the repository, create new branches, and merge pull requests. Collaborators typically have a higher level of trust within the project and may be responsible for reviewing and merging code changes from other contributors.
 
-Contributors, on the other hand, are people who have submitted pull requests with changes to the repository. They do not have direct write access to the repository, but they can suggest changes and improvements by submitting pull requests. Contributors may be people who are new to the project or who are not yet trusted to have write access.
+Contributors, on the other hand, are people who have submitted pull requests with changes to the repository. They do not have direct write access to the repository, but they can suggest changes and improvements by submitting pull requests. Contributors may be people who are new to the project or who are not yet trusted to have write access 
+.
